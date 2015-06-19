@@ -1,0 +1,8 @@
+C:\microsoft_learning\Mod07\Labfiles\Starter\Exercise 2\Grades.DataModel\bin\Debug\Grades.DataModel.dll.config
+C:\microsoft_learning\Mod07\Labfiles\Starter\Exercise 2\Grades.DataModel\bin\Debug\Grades.DataModel.dll
+C:\microsoft_learning\Mod07\Labfiles\Starter\Exercise 2\Grades.DataModel\bin\Debug\Grades.DataModel.pdb
+C:\microsoft_learning\Mod07\Labfiles\Starter\Exercise 2\Grades.DataModel\bin\Debug\EntityFramework.dll
+C:\microsoft_learning\Mod07\Labfiles\Starter\Exercise 2\Grades.DataModel\bin\Debug\EntityFramework.xml
+C:\microsoft_learning\Mod07\Labfiles\Starter\Exercise 2\Grades.DataModel\obj\Debug\Grades.DataModel.csprojResolveAssemblyReference.cache
+C:\microsoft_learning\Mod07\Labfiles\Starter\Exercise 2\Grades.DataModel\obj\Debug\Grades.DataModel.dll
+C:\microsoft_learning\Mod07\Labfiles\Starter\Exercise 2\Grades.DataModel\obj\Debug\Grades.DataModel.pdb
